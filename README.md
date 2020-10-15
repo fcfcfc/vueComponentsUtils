@@ -1,5 +1,5 @@
 # vue-components-utils  
-适用于PC端项目的vue组件和可自定义的Element组件  
+常用的vue组件  
 ## 目录  
 - [安装](#安装)  
 - [使用](#使用)  

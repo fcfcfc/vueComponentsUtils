@@ -1,6 +1,6 @@
 {
   "name": "vue-components-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "常用的vue组件",
   "main": "lib/index/index.js",
