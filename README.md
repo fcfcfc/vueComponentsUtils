@@ -1,5 +1,5 @@
 # vue-components-utils  
-常用的vue组件  
+常用的vue组件（适用于vue 2.x）  
 ## 目录  
 - [安装](#安装)  
 - [使用](#使用)  
